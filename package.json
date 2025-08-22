@@ -2,7 +2,7 @@
   "name": "reactjs",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nehaagarwal1900.github.io/Todo-app-react/",
+  "homepage": "https://nehaagarwal1900.github.io/Todo-app-reactjs/",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
