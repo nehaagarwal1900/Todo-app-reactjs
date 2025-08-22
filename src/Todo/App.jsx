@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Header from './Header'
 import Input from './Input'
 import List from './List'
-import './App.css'
+// import './App.css'
 
 const App = () => {
    const [todos,setTodos]=useState([]);
